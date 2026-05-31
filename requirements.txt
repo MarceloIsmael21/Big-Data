@@ -1,0 +1,5 @@
+pyspark
+findspark
+# Ejercicio 3
+kagglehub[pandas-datasets]
+matplotlib
