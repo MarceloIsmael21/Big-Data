@@ -3,3 +3,6 @@ findspark
 # Ejercicio 3
 kagglehub[pandas-datasets]
 matplotlib
+
+#Ejercicio de visualización
+plotly
