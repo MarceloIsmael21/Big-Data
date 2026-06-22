@@ -4,5 +4,8 @@ findspark
 kagglehub[pandas-datasets]
 matplotlib
 
-#Ejercicio de visualización
-plotly
+#Ejercicio 7 de visualización
+seaborn
+
+#En complementarios, ejemplo de muestreo minibatch aleatorio
+sklearn #en big data se usan las librerias integradas de pyspark
